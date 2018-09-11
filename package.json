@@ -1,0 +1,16 @@
+{
+  "name": "slackbot",
+  "version": "1.0.0",
+  "description": "slackbot that creates jokes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Harsh Jaiswal",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "slackbots": "^1.1.0"
+  },
+  "devDependencies": {}
+}
